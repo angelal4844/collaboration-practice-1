@@ -6,7 +6,7 @@
 #### 6
 #### 7 Hello, my name is Angela. 
 #### 8
-#### 9
+#### 9 Github is awesome. 
 #### 10
 #### 11
 #### 12
